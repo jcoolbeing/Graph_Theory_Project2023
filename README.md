@@ -1,7 +1,5 @@
 # Graph_Theory_Project2023
 
-My Project for Graph Theory
-
 <h2>How to run this program:</h2>
 
 1. Clone this repository onto your computer using git clone "https://github.com/jcoolbeing/Graph_Theory_Project2023"
